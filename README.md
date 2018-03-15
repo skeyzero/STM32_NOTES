@@ -1,3 +1,5 @@
-# STM32_NOTES
+# 裸奔STM32
 
-[裸奔STM32系统始终](./STM32_SYSCLK.md)
+*[SYSCLK系统时钟](./STM32_SYSCLK.md)
+*[NVIC向量中断控制器](./NVIC.md)
+*[EXTI-外部中断](./EXTI.md)
