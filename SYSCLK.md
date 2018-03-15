@@ -2,7 +2,7 @@
 
 
 ******   
-[Home](https://skeyzero.github.io/)  
+[Home](./README)  
 ******
 
 ## 认识时钟树  
